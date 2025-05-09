@@ -5,6 +5,9 @@
 - Efficient ML, DL Compiler & Framework, On-Device Training
 
 ## Academic Background 🎓
+**SNU (Seoul National University)**
+- Integrated MS & PhD in Graduate School of Data Science, 2025.9 ~
+
 **POSTECH (Pohang University of Science and Technology)**
 - B.S. in Electrical Engineering, 2021.3 ~ 2025.2
 
