@@ -13,5 +13,5 @@
 - B.S. in Electrical Engineering, 2021.3 ~ 2025.2
 
 ## Contacts
-- jmha2021@snu.ac.kr
+- jmha02@snu.ac.kr
 - jmha2021@postech.ac.kr
